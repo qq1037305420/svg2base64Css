@@ -5,11 +5,15 @@ Classes will be name prefix-icon-svgname.
 base size is also included
 
 example:
+
         ./svg/abc.svg
+        
         =>
+        
         prefix-icon-abc {
             background-image: url(base64 encoded with the svg)
         }
+        
 
 ##first step
 
