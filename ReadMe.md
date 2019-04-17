@@ -1,6 +1,9 @@
 This tool converts svg images to css classes with background-image of svgs.
+
 Classes will be name prefix-icon-svgname.
+
 base size is also included
+
 example:
         ./svg/abc.svg
         =>
